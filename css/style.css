@@ -247,7 +247,7 @@ header .left-content ul i {
     left: -400px;
     top: -25px;
     height: 100vh;
-    z-index: 1;
+    z-index: 5;
     justify-content: flex-start;
     align-items: normal;
     font-weight: bold;
